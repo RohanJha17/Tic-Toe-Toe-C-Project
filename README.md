@@ -1,1 +1,1 @@
-# This is my first C-Project
+# The Tic-Tac-Toe Game project is a simple yet engaging software application that replicates the classic 3x3 grid-based game. Designed for two players, the game allows participants to take turns placing their respective symbols (X or O) on the grid.      
